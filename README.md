@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**josimarveram/josimarveram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Lima - Perú
 - 🌱 I’m currently learning IA
 - 👯 I’m looking to collaborate on IA
@@ -20,4 +15,11 @@ Cloud computing y arquitectura escalable
 🌱 Actualmente aprendiendo: Maestria en Inteligencia Artificial
 - 📫 How to reach me: josimarveram@gmail.com
 - 😄 Pronouns: Josimar
+
+<!--
+**josimarveram/josimarveram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
